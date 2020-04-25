@@ -1,0 +1,14 @@
+---
+layout: kit
+title: page
+---
+
+{%- include kit/navbar.html -%}
+
+<div class="container">
+        <ul class="pi-draggable">
+            {% for link in site.data.kitlinks %}
+                <a href="{{ link.link }}"><li>{{ link.title }}</li></a>
+            {% endfor %}
+              </ul>
+</div>
