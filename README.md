@@ -1,6 +1,6 @@
 Beighton Development Kit 1
 
-See demo: http://127.0.0.1:4000/Beighton-Build-Kit-V1/
+See demo: https://benwebdev.github.io/BuildKit-V1/
 
 - FULL KIT
 - NAVBARS
